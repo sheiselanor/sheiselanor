@@ -12,7 +12,7 @@
 
 ---
 
-I design and deploy **production automation** — WhatsApp and voice AI agents, n8n workflow pipelines, and full-stack platforms — for teams across healthcare, retail, automotive, and finance. Not demos. Systems people use every day.
+I design and deploy **production automation** — AI chat agents, n8n workflow pipelines, and full-stack platforms — for teams across healthcare, retail, automotive, and finance. Not demos. Systems people use every day.
 
 I treat every build like the systems I ship: an orchestrated pipeline with clear stages, logged handoffs, and a human in the loop where it counts.
 
